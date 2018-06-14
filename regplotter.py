@@ -75,4 +75,3 @@ class Regplot():
                 ax.legend(loc='best')
 
                 return ax
-
